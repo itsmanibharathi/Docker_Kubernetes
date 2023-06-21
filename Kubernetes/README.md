@@ -118,3 +118,5 @@ kubectl delete -f deployment.yaml
 ![image](https://github.com/itsmanibharathi/Docker_Kubernetes/assets/76097762/8bd1ca5b-768f-472e-80e0-cf5e4b4e7c17)
 
 Test the yaml file by https://snyk.io/
+
+
