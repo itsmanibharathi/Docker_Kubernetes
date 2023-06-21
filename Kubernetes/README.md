@@ -112,3 +112,9 @@ kubectl logs [pods-id] -n [name-space]
 kubectl delete -f deployment.yaml
 ```
 ![image](https://github.com/itsmanibharathi/Docker_Kubernetes/assets/76097762/4c0ad4de-2d21-46a8-9fdb-744918610bae)
+
+> Security
+
+![image](https://github.com/itsmanibharathi/Docker_Kubernetes/assets/76097762/8bd1ca5b-768f-472e-80e0-cf5e4b4e7c17)
+
+Test the yaml file by https://snyk.io/
